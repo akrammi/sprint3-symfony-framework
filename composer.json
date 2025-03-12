@@ -1,4 +1,14 @@
 {
+    "name": "akrammi/sprint3-symfony-framework",
+    "description": "This package should not be used; it is for testing purposes only. Its a minimal framework using Symfony components source: https://symfony.com/doc/current/create_framework/index.html",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Akram Moumen El Idrissi",
+            "email": "akram@gmail.con",
+            "role": "Developer"
+        }
+    ],
     "require": {
         "symfony/http-foundation": "^7.2",
         "symfony/routing": "^7.2",
